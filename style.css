@@ -5,3 +5,15 @@
 .main {
     padding:100px;
 }
+
+.demo{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin:1px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
